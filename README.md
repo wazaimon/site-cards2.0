@@ -1,2 +1,2 @@
-# site-cards2.0
-cards de wuwa que está sempre em melhora 
+# site-card2.0
+melhora de um projeto antigo 
